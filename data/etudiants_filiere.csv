@@ -1,0 +1,181 @@
+student_id,prenom,nom,ville,filiere,semestre,absences_heures,moyenne,taux_reussite,alerte,module_1,module_2,module_3,module_4,module_5,note_1,note_2,note_3,note_4,note_5
+ST01000,Lina,Alaoui,Casablanca,Informatique,S1,17,12.2,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,17.07,6.39,9.15,14.89,13.5
+ST01001,Hassan,Chafii,Casablanca,BTP,S1,23,14.12,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,12.72,18.11,15.24,9.18,15.37
+ST01002,Rachid,Hamdouch,Marrakech,BTP,S2,19,12.62,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,9.13,18.57,12.26,11.24,11.91
+ST01003,Amine,Othman,Rabat,Electronique,S1,18,13.35,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,20.0,10.67,10.49,9.44,16.17
+ST01004,Sara,Chafii,Tanger,Electronique,S2,11,14.15,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,15.13,15.84,15.24,10.11,14.44
+ST01005,Youssef,Ziani,Fes,BTP,S2,21,13.2,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,15.66,13.02,14.39,16.33,6.61
+ST01006,Hassan,Alaoui,Agadir,Electronique,S2,14,12.42,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,18.93,8.6,17.16,5.53,11.89
+ST01007,Imane,El Khatib,Rabat,Electronique,S2,19,11.52,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,10.63,10.42,16.66,12.24,7.66
+ST01008,Amine,Bouchaib,Fes,BTP,S1,20,13.71,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,15.71,10.65,13.76,16.3,12.12
+ST01009,Sara,Bouchaib,Agadir,Mecanique,S1,16,12.83,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,7.78,15.15,11.43,13.75,16.02
+ST01010,Hassan,Hamdouch,Tetouan,Electronique,S1,13,7.82,0,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,11.84,4.91,6.29,7.15,8.91
+ST01011,Karim,Bouchaib,Tetouan,Electronique,S1,22,11.26,1,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,10.6,15.82,8.6,12.18,9.12
+ST01012,Hassan,Mansouri,Marrakech,Informatique,S1,16,12.38,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,14.4,11.54,8.6,14.67,12.69
+ST01013,Karim,Mansouri,Rabat,Mecanique,S2,16,14.72,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,8.5,13.85,14.32,19.41,17.51
+ST01014,Sara,Bennani,Tetouan,Gestion,S2,8,12.1,1,0,Management,Finance,Marketing,Maths,Anglais,9.86,12.04,8.88,16.22,13.52
+ST01015,Hassan,Chafii,Rabat,Electronique,S2,20,13.46,1,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,20.0,20.0,14.66,8.65,4.0
+ST01016,Nora,Hamdouch,Casablanca,BTP,S2,16,12.89,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,11.72,17.82,13.75,12.54,8.63
+ST01017,Karim,Ziani,Casablanca,Gestion,S1,13,14.54,1,0,Management,Finance,Marketing,Maths,Anglais,19.29,13.86,17.14,12.25,10.15
+ST01018,Imane,Idrissi,Rabat,Informatique,S1,9,14.93,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,16.69,10.37,17.64,15.86,14.1
+ST01019,Salma,Ziani,Tetouan,BTP,S1,17,12.26,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,6.52,6.57,13.83,20.0,14.37
+ST01020,Imane,El Khatib,Tetouan,Informatique,S1,15,16.21,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,11.94,18.0,15.73,20.0,15.4
+ST01021,Youssef,Idrissi,Fes,BTP,S1,28,11.94,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,11.54,10.86,20.0,7.99,9.31
+ST01022,Salma,Ziani,Marrakech,Mecanique,S2,17,13.76,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,14.22,19.01,13.78,16.4,5.39
+ST01023,Karim,Idrissi,Tanger,BTP,S2,15,11.85,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,10.8,17.1,6.63,13.45,11.28
+ST01024,Hassan,Chafii,Casablanca,Informatique,S2,20,13.6,1,1,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,12.91,11.16,13.25,15.32,15.37
+ST01025,Sara,Chafii,Casablanca,Gestion,S1,24,12.78,1,1,Management,Finance,Marketing,Maths,Anglais,19.67,10.41,12.69,8.88,12.23
+ST01026,Sara,Bennani,Agadir,Gestion,S2,8,10.35,1,1,Management,Finance,Marketing,Maths,Anglais,5.58,12.83,9.98,12.15,11.23
+ST01027,Rachid,Bouchaib,Agadir,BTP,S2,30,12.33,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,6.22,7.44,20.0,20.0,7.98
+ST01028,Sara,Bouchaib,Casablanca,Mecanique,S2,13,13.78,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,11.77,16.36,15.23,12.12,13.44
+ST01029,Amine,Idrissi,Marrakech,Electronique,S1,17,14.09,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,9.7,14.62,17.36,13.8,14.98
+ST01030,Rachid,El Khatib,Tanger,Gestion,S2,13,15.79,1,0,Management,Finance,Marketing,Maths,Anglais,12.76,20.0,19.21,15.35,11.63
+ST01031,Imane,Ziani,Tetouan,BTP,S1,25,13.36,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,13.66,15.0,4.63,17.75,15.78
+ST01032,Rachid,Chafii,Marrakech,Mecanique,S2,18,14.18,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,11.57,12.67,12.34,14.34,20.0
+ST01033,Nora,Alaoui,Tanger,Gestion,S2,13,12.57,1,0,Management,Finance,Marketing,Maths,Anglais,11.8,7.25,14.85,20.0,8.93
+ST01034,Nora,Bouchaib,Marrakech,Gestion,S1,6,16.81,1,0,Management,Finance,Marketing,Maths,Anglais,11.93,17.95,15.74,20.0,18.42
+ST01035,Rachid,Alaoui,Agadir,BTP,S2,24,11.93,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,10.98,13.02,9.65,18.05,7.94
+ST01036,Rachid,Idrissi,Tetouan,Electronique,S1,21,14.16,1,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,15.58,20.0,16.09,6.03,13.1
+ST01037,Rachid,Alaoui,Agadir,Informatique,S2,17,11.39,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,10.84,9.95,14.22,9.78,12.15
+ST01038,Sara,Ziani,Agadir,Informatique,S2,17,14.02,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,4.79,14.96,14.37,15.97,20.0
+ST01039,Salma,Othman,Tanger,Informatique,S1,6,16.33,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,19.11,15.2,17.32,12.23,17.79
+ST01040,Rachid,Alaoui,Marrakech,Gestion,S2,13,13.85,1,0,Management,Finance,Marketing,Maths,Anglais,10.08,12.88,13.17,15.34,17.8
+ST01041,Nora,El Khatib,Fes,Gestion,S2,8,14.8,1,0,Management,Finance,Marketing,Maths,Anglais,10.22,14.11,16.66,14.04,18.95
+ST01042,Salma,El Khatib,Marrakech,BTP,S1,31,12.13,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,11.42,4.0,20.0,11.1,14.12
+ST01043,Rachid,Hamdouch,Tetouan,Gestion,S1,3,13.02,1,0,Management,Finance,Marketing,Maths,Anglais,10.32,14.94,15.53,14.97,9.36
+ST01044,Rachid,Ziani,Rabat,Informatique,S1,16,15.89,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,16.17,14.33,16.99,15.27,16.71
+ST01045,Sara,Chafii,Agadir,Electronique,S2,20,13.32,1,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,10.43,14.85,11.6,12.57,17.13
+ST01046,Rachid,Chafii,Fes,BTP,S1,8,14.03,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,9.14,16.3,11.63,14.25,18.83
+ST01047,Amine,El Khatib,Rabat,Electronique,S1,22,9.46,0,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,12.61,8.73,10.13,6.44,9.4
+ST01048,Lina,Bouchaib,Rabat,Informatique,S2,7,12.48,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,14.99,9.85,15.9,13.9,7.74
+ST01049,Amine,Ziani,Tetouan,Mecanique,S1,12,13.63,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,10.05,14.9,12.61,15.08,15.52
+ST01050,Nora,Idrissi,Marrakech,Electronique,S2,21,14.05,1,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,10.71,17.52,14.53,12.51,14.97
+ST01051,Sara,Bennani,Tanger,Informatique,S1,14,14.75,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,17.59,10.59,15.37,14.3,15.89
+ST01052,Youssef,Hamdouch,Marrakech,BTP,S2,14,13.82,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,10.2,11.29,20.0,18.61,8.98
+ST01053,Lina,Alaoui,Tanger,Electronique,S2,16,12.99,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,14.99,10.97,17.59,7.96,13.43
+ST01054,Imane,Alaoui,Fes,BTP,S2,20,13.01,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,15.19,12.43,12.18,9.56,15.67
+ST01055,Hassan,Othman,Tanger,Mecanique,S1,21,14.5,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,17.36,14.64,12.2,15.61,12.7
+ST01056,Lina,Alaoui,Tanger,Informatique,S1,4,12.99,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,7.82,18.98,17.5,11.67,8.99
+ST01057,Salma,Hamdouch,Casablanca,Electronique,S2,18,11.13,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,9.68,14.59,5.78,11.76,13.85
+ST01058,Youssef,Chafii,Tetouan,Gestion,S2,15,13.68,1,0,Management,Finance,Marketing,Maths,Anglais,10.69,16.54,19.4,10.6,11.19
+ST01059,Sara,Hamdouch,Rabat,Gestion,S1,9,15.83,1,0,Management,Finance,Marketing,Maths,Anglais,18.19,13.86,14.6,19.48,13.03
+ST01060,Salma,Ziani,Rabat,Mecanique,S1,10,11.85,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,15.48,10.84,18.22,4.0,10.7
+ST01061,Rachid,Chafii,Tanger,BTP,S2,19,12.51,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,11.18,11.94,13.98,8.46,16.99
+ST01062,Rachid,Hamdouch,Tanger,BTP,S2,21,12.43,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,20.0,12.28,11.53,9.68,8.65
+ST01063,Hassan,Hamdouch,Rabat,Electronique,S2,11,13.2,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,11.88,14.0,13.03,9.66,17.45
+ST01064,Amine,Alaoui,Agadir,Mecanique,S2,20,11.75,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,13.59,7.02,13.11,14.8,10.22
+ST01065,Salma,Bouchaib,Tetouan,Gestion,S2,18,11.08,1,0,Management,Finance,Marketing,Maths,Anglais,12.22,14.67,5.27,9.95,13.27
+ST01066,Sara,Chafii,Fes,Informatique,S2,8,14.08,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,10.32,14.69,20.0,9.75,15.65
+ST01067,Lina,Hamdouch,Tetouan,BTP,S1,11,11.88,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,6.25,10.67,10.5,17.2,14.76
+ST01068,Hassan,El Khatib,Tanger,Mecanique,S2,24,13.81,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,10.16,10.43,15.67,16.9,15.88
+ST01069,Amine,Hamdouch,Casablanca,BTP,S1,21,10.74,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,5.57,14.84,9.13,7.14,17.03
+ST01070,Youssef,Mansouri,Tetouan,BTP,S2,17,12.63,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,12.55,13.99,10.03,15.56,11.04
+ST01071,Karim,Bennani,Rabat,Gestion,S1,0,14.29,1,0,Management,Finance,Marketing,Maths,Anglais,18.74,20.0,12.28,7.22,13.21
+ST01072,Rachid,Othman,Tanger,Electronique,S1,18,14.09,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,14.56,5.78,15.95,20.0,14.17
+ST01073,Sara,El Khatib,Casablanca,Electronique,S2,7,15.2,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,12.94,10.74,20.0,12.32,20.0
+ST01074,Youssef,Alaoui,Marrakech,Mecanique,S1,13,12.86,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,13.55,18.19,12.04,6.59,13.93
+ST01075,Youssef,Mansouri,Agadir,BTP,S2,11,10.3,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,4.64,15.01,10.49,4.0,17.37
+ST01076,Youssef,Mansouri,Marrakech,Informatique,S1,18,16.09,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,14.83,20.0,15.7,15.87,14.07
+ST01077,Hassan,Hamdouch,Tetouan,BTP,S2,17,13.78,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,10.31,10.4,16.8,20.0,11.4
+ST01078,Imane,Idrissi,Marrakech,Gestion,S1,16,8.7,0,1,Management,Finance,Marketing,Maths,Anglais,5.22,10.51,10.96,5.88,10.93
+ST01079,Imane,Idrissi,Tanger,Mecanique,S1,16,11.78,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,8.47,12.86,17.81,9.6,10.18
+ST01080,Nora,El Khatib,Tanger,Electronique,S1,15,11.21,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,15.36,7.84,12.75,12.15,7.93
+ST01081,Hassan,Hamdouch,Rabat,Electronique,S2,10,9.79,0,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,11.77,17.58,4.0,6.37,9.25
+ST01082,Nora,El Khatib,Tetouan,Gestion,S2,6,13.52,1,0,Management,Finance,Marketing,Maths,Anglais,9.18,14.97,13.9,15.92,13.64
+ST01083,Amine,Mansouri,Fes,Informatique,S1,18,12.05,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,7.34,5.26,17.91,18.91,10.82
+ST01084,Amine,Alaoui,Marrakech,Electronique,S2,24,11.87,1,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,14.52,10.83,8.78,13.15,12.05
+ST01085,Karim,Alaoui,Tanger,BTP,S2,25,15.17,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,7.98,16.8,16.07,15.42,19.6
+ST01086,Nora,Hamdouch,Fes,Gestion,S1,13,12.36,1,0,Management,Finance,Marketing,Maths,Anglais,6.86,13.69,11.75,9.52,20.0
+ST01087,Nora,Bennani,Tetouan,BTP,S2,26,12.6,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,12.46,13.67,7.75,15.21,13.89
+ST01088,Amine,Bennani,Agadir,Mecanique,S1,26,14.24,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,16.56,13.15,14.44,13.89,13.15
+ST01089,Youssef,Bennani,Rabat,Informatique,S1,7,14.09,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,15.44,15.29,7.31,13.93,18.48
+ST01090,Rachid,Ziani,Fes,BTP,S1,15,14.95,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,7.2,14.35,14.82,19.48,18.88
+ST01091,Salma,Othman,Tetouan,Gestion,S1,13,12.54,1,0,Management,Finance,Marketing,Maths,Anglais,12.39,11.38,14.59,12.24,12.1
+ST01092,Nora,Chafii,Fes,Gestion,S2,13,11.28,1,0,Management,Finance,Marketing,Maths,Anglais,9.11,11.72,18.73,9.93,6.89
+ST01093,Rachid,Othman,Tetouan,Gestion,S1,11,13.26,1,0,Management,Finance,Marketing,Maths,Anglais,17.35,4.05,15.09,19.47,10.35
+ST01094,Rachid,Chafii,Fes,Gestion,S2,10,16.97,1,0,Management,Finance,Marketing,Maths,Anglais,18.1,19.83,12.52,20.0,14.42
+ST01095,Rachid,Alaoui,Marrakech,BTP,S1,21,15.24,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,20.0,16.79,9.61,17.95,11.86
+ST01096,Sara,Othman,Rabat,Informatique,S1,15,13.72,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,13.55,15.08,15.71,7.04,17.23
+ST01097,Amine,Bouchaib,Rabat,Informatique,S2,14,12.43,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,10.86,16.96,9.0,12.85,12.48
+ST01098,Amine,Hamdouch,Fes,Informatique,S2,17,11.04,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,13.74,6.61,6.66,14.35,13.86
+ST01099,Rachid,Ziani,Marrakech,Mecanique,S2,22,11.85,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,8.13,8.18,8.81,14.91,19.23
+ST01100,Amine,Hamdouch,Agadir,Electronique,S2,11,12.63,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,9.69,10.66,12.97,11.7,18.12
+ST01101,Lina,Bouchaib,Casablanca,Electronique,S1,8,13.93,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,13.95,12.96,12.14,20.0,10.6
+ST01102,Rachid,Chafii,Agadir,Mecanique,S1,18,12.14,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,8.28,9.94,15.07,16.03,11.39
+ST01103,Rachid,El Khatib,Tetouan,Informatique,S2,9,13.21,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,15.51,18.98,6.95,13.19,11.41
+ST01104,Lina,Bennani,Tetouan,Informatique,S2,23,14.17,1,1,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,12.86,15.37,13.22,14.69,14.72
+ST01105,Hassan,Bennani,Tetouan,Informatique,S2,15,14.98,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,15.74,9.43,13.77,17.97,17.99
+ST01106,Nora,Chafii,Fes,Informatique,S2,20,12.52,1,1,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,14.6,12.45,15.38,4.0,16.15
+ST01107,Hassan,El Khatib,Fes,Mecanique,S1,20,13.77,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,7.92,10.11,19.16,11.67,20.0
+ST01108,Lina,Chafii,Casablanca,Gestion,S1,12,11.76,1,0,Management,Finance,Marketing,Maths,Anglais,9.59,13.02,13.58,9.22,13.4
+ST01109,Hassan,Othman,Marrakech,Mecanique,S1,16,12.3,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,12.35,14.04,15.99,9.5,9.63
+ST01110,Karim,Alaoui,Casablanca,Mecanique,S2,20,13.63,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,14.75,6.67,14.36,16.79,15.57
+ST01111,Hassan,Hamdouch,Tanger,BTP,S2,18,17.37,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,10.08,16.88,20.0,20.0,19.91
+ST01112,Imane,Bouchaib,Marrakech,BTP,S2,20,12.76,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,13.03,16.65,12.72,9.8,11.61
+ST01113,Sara,Bennani,Fes,Mecanique,S1,21,14.2,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,11.23,16.28,14.99,8.51,20.0
+ST01114,Rachid,Idrissi,Tetouan,BTP,S1,14,13.38,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,12.65,11.39,11.38,16.27,15.23
+ST01115,Youssef,Othman,Tetouan,Gestion,S2,1,12.67,1,0,Management,Finance,Marketing,Maths,Anglais,11.82,5.77,13.83,13.98,17.96
+ST01116,Nora,Chafii,Fes,Electronique,S2,18,13.43,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,9.82,12.49,17.24,10.59,17.03
+ST01117,Nora,Hamdouch,Fes,Mecanique,S2,21,12.13,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,13.23,9.9,9.79,11.44,16.28
+ST01118,Salma,Mansouri,Tanger,BTP,S2,18,14.73,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,12.93,20.0,6.39,20.0,14.32
+ST01119,Youssef,El Khatib,Tanger,Mecanique,S2,17,14.6,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,18.91,11.18,18.16,10.99,13.75
+ST01120,Lina,Idrissi,Rabat,Electronique,S2,15,9.16,0,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,11.31,7.48,11.77,5.93,9.29
+ST01121,Hassan,Bouchaib,Tetouan,Informatique,S2,11,15.64,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,18.95,14.73,13.53,16.04,14.94
+ST01122,Karim,Othman,Agadir,Mecanique,S1,10,13.89,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,15.54,11.94,10.9,13.74,17.34
+ST01123,Salma,Bennani,Tanger,Informatique,S2,13,18.22,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,19.5,15.68,17.8,19.12,18.99
+ST01124,Amine,Ziani,Fes,Mecanique,S2,12,13.98,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,15.74,7.41,10.06,19.17,17.53
+ST01125,Rachid,Ziani,Casablanca,Gestion,S2,10,14.62,1,0,Management,Finance,Marketing,Maths,Anglais,13.46,13.68,17.67,12.74,15.53
+ST01126,Amine,El Khatib,Rabat,Electronique,S1,12,13.47,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,11.14,11.67,11.58,20.0,12.96
+ST01127,Rachid,Hamdouch,Fes,Informatique,S2,12,15.53,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,10.89,19.05,13.47,19.3,14.93
+ST01128,Imane,Othman,Casablanca,Mecanique,S2,26,10.09,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,4.0,4.69,11.12,13.76,16.9
+ST01129,Sara,Idrissi,Tanger,Mecanique,S1,23,14.71,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,13.57,17.14,14.55,11.34,16.93
+ST01130,Rachid,El Khatib,Marrakech,Informatique,S2,1,10.5,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,8.11,9.29,12.72,13.43,8.97
+ST01131,Imane,Ziani,Tanger,Gestion,S2,21,10.94,1,1,Management,Finance,Marketing,Maths,Anglais,11.66,12.13,9.68,7.32,13.89
+ST01132,Lina,Mansouri,Agadir,Mecanique,S2,14,13.79,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,13.42,14.64,15.15,8.15,17.59
+ST01133,Amine,Chafii,Marrakech,BTP,S1,13,14.78,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,10.88,14.45,15.94,12.62,20.0
+ST01134,Salma,Bouchaib,Rabat,BTP,S1,29,12.78,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,20.0,6.81,8.55,20.0,8.52
+ST01135,Hassan,Hamdouch,Rabat,Informatique,S1,13,12.94,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,11.03,11.24,11.39,11.06,20.0
+ST01136,Karim,Bouchaib,Casablanca,BTP,S1,19,5.59,0,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,8.97,4.0,6.39,4.61,4.0
+ST01137,Rachid,Bouchaib,Tetouan,Informatique,S2,20,15.27,1,1,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,15.06,16.77,10.68,16.39,17.47
+ST01138,Imane,Bouchaib,Casablanca,Informatique,S2,11,12.06,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,9.23,9.3,14.43,15.64,11.69
+ST01139,Nora,Chafii,Agadir,Gestion,S1,19,15.43,1,0,Management,Finance,Marketing,Maths,Anglais,17.57,9.9,19.59,12.14,17.96
+ST01140,Salma,Hamdouch,Marrakech,Mecanique,S2,17,13.76,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,6.25,17.16,19.77,10.35,15.27
+ST01141,Nora,Othman,Marrakech,Mecanique,S1,17,16.02,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,20.0,11.07,17.6,14.11,17.34
+ST01142,Lina,Chafii,Tanger,Gestion,S1,7,17.13,1,0,Management,Finance,Marketing,Maths,Anglais,15.42,15.68,15.78,19.38,19.37
+ST01143,Salma,Bennani,Fes,Informatique,S2,14,15.89,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,11.22,19.96,15.48,13.57,19.24
+ST01144,Hassan,El Khatib,Rabat,Mecanique,S2,18,14.43,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,13.85,7.53,13.3,20.0,17.46
+ST01145,Sara,Idrissi,Agadir,Gestion,S2,1,12.1,1,0,Management,Finance,Marketing,Maths,Anglais,14.0,16.36,8.19,11.69,10.25
+ST01146,Rachid,Idrissi,Tanger,BTP,S1,7,11.26,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,15.35,16.32,11.79,4.0,8.82
+ST01147,Nora,El Khatib,Casablanca,BTP,S1,14,15.33,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,16.26,9.46,14.94,16.01,20.0
+ST01148,Imane,Alaoui,Marrakech,BTP,S2,25,10.43,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,8.75,10.01,12.89,5.8,14.7
+ST01149,Imane,Ziani,Fes,BTP,S1,19,12.04,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,15.96,4.0,7.84,17.51,14.9
+ST01150,Salma,Ziani,Marrakech,Electronique,S1,19,14.23,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,20.0,11.54,9.21,15.03,15.38
+ST01151,Salma,Othman,Fes,Mecanique,S2,19,13.72,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,9.72,16.95,12.94,12.64,16.36
+ST01152,Sara,Othman,Marrakech,BTP,S1,29,11.96,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,14.64,10.89,10.57,11.33,12.38
+ST01153,Amine,Bennani,Agadir,BTP,S2,24,14.39,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,10.58,14.51,7.59,19.68,19.58
+ST01154,Rachid,Idrissi,Tetouan,Electronique,S2,18,12.32,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,4.98,12.39,14.44,15.6,14.2
+ST01155,Salma,Othman,Casablanca,Mecanique,S2,3,12.65,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,11.47,12.41,6.04,14.1,19.24
+ST01156,Lina,Chafii,Rabat,Electronique,S1,12,13.69,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,18.85,10.06,14.88,4.68,20.0
+ST01157,Imane,Bennani,Marrakech,Mecanique,S2,10,13.05,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,17.77,11.74,12.54,11.64,11.56
+ST01158,Salma,Bennani,Tanger,Mecanique,S2,17,14.54,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,14.96,11.34,20.0,7.11,19.3
+ST01159,Amine,Mansouri,Tanger,Informatique,S1,18,14.83,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,17.19,13.91,13.27,13.6,16.18
+ST01160,Karim,Chafii,Casablanca,Informatique,S2,18,14.95,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,17.0,16.29,16.93,13.37,11.17
+ST01161,Hassan,Idrissi,Casablanca,Electronique,S2,15,9.99,0,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,10.22,4.0,7.19,18.14,10.41
+ST01162,Imane,Othman,Casablanca,Gestion,S1,11,15.66,1,0,Management,Finance,Marketing,Maths,Anglais,14.12,20.0,19.01,12.93,12.22
+ST01163,Rachid,Bouchaib,Agadir,BTP,S2,18,17.07,1,0,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,19.44,12.15,20.0,13.74,20.0
+ST01164,Karim,Alaoui,Rabat,Gestion,S2,7,12.89,1,0,Management,Finance,Marketing,Maths,Anglais,14.71,16.86,13.84,9.5,9.54
+ST01165,Lina,El Khatib,Tetouan,Electronique,S1,21,12.09,1,1,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,12.14,4.0,11.94,12.37,20.0
+ST01166,Sara,Othman,Tanger,BTP,S1,22,13.93,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,15.1,13.25,14.58,17.03,9.71
+ST01167,Hassan,Bouchaib,Marrakech,Gestion,S1,12,11.82,1,0,Management,Finance,Marketing,Maths,Anglais,10.94,13.32,11.52,10.25,13.06
+ST01168,Lina,Ziani,Marrakech,Mecanique,S2,21,12.8,1,1,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,7.84,10.72,10.78,19.27,15.39
+ST01169,Nora,Chafii,Tanger,Mecanique,S1,17,16.22,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,20.0,13.66,13.69,16.0,17.76
+ST01170,Youssef,Bouchaib,Tetouan,BTP,S2,16,9.02,0,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,18.7,11.19,4.0,7.21,4.0
+ST01171,Salma,Bouchaib,Marrakech,BTP,S2,25,13.31,1,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,18.15,11.88,4.0,16.26,16.27
+ST01172,Imane,Bennani,Tetouan,Gestion,S2,22,12.78,1,1,Management,Finance,Marketing,Maths,Anglais,9.74,16.02,7.79,10.74,19.61
+ST01173,Nora,Ziani,Rabat,Informatique,S1,13,13.41,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,18.68,12.9,7.33,11.35,16.79
+ST01174,Sara,Ziani,Fes,Mecanique,S1,15,11.45,1,0,Mecanique des fluides,Matieres,Conception CAO,Maths,Anglais,11.27,7.32,10.76,10.64,17.24
+ST01175,Youssef,Alaoui,Rabat,BTP,S2,20,8.49,0,1,Resistance des materiaux,Topographie,Gestion de chantier,Maths,Anglais,8.48,7.2,8.49,10.25,8.02
+ST01176,Hassan,Mansouri,Casablanca,Informatique,S1,14,12.12,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,12.66,15.1,14.05,8.88,9.9
+ST01177,Imane,Hamdouch,Fes,Electronique,S2,17,13.49,1,0,Circuits,Microcontroleurs,Telecoms,Maths,Anglais,17.55,11.81,15.28,9.94,12.86
+ST01178,Nora,Bennani,Tetouan,Informatique,S1,9,10.94,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,11.77,8.53,8.74,13.74,11.93
+ST01179,Hassan,Bennani,Rabat,Informatique,S1,15,16.27,1,0,Python & ML,Bases de donnees,Architecture logicielle,Maths,Anglais,19.5,9.74,13.89,18.7,19.51

@@ -1,0 +1,14 @@
+Apogee,Semestre,risk_score,label,nb_commentaires,extrait_alerte,sentiment_alert
+19249957,S1,0.829,negative,2,Risque de décrochage : absentéisme répété aux séances de renforcement.,True
+19364488,S1,0.648,warning,1,"Absences nombreuses, étudiante isolée et démotivée dans le groupe.",False
+19919803,S1,0.58,warning,1,"Étudiante silencieuse, inquiétude sur sa charge de travail et son organisation.",False
+19935767,S1,0.688,negative,1,"Stress important avant les partiels, manque de confiance malgré des résultats corrects.",True
+20921394,S2,0.707,negative,1,"Peu de progrès, frustration face aux modules techniques, à suivre de près.",True
+21054301,S1,0.1,positive,1,"Très bon niveau, motivé et régulier dans le travail personnel.",False
+21054301,S2,0.16,positive,1,"Poursuit sur une dynamique positive, bonne communication avec l'équipe pédagogique.",False
+21427562,S1,0.64,warning,1,"Étudiant en grande difficulté, découragé et désengagé des activités de groupe.",False
+23258742,S1,0.378,neutral,1,"Participation correcte, quelques difficultés sur les exercices avancés.",False
+23313054,S1,0.16,positive,1,"Motivé lors des séances d'insertion, bonne attitude professionnelle.",False
+23759334,S1,0.86,negative,2,"Étudiante brillante aux examens mais passive en classe, semble dépassée par le rythme e...",True
+24856417,S1,0.72,negative,1,"Étudiant passif en classe, semble dépassé par le rythme des travaux pratiques.",True
+24856417,S2,0.1,positive,1,"Progrès techniques visibles, étudiant plus engagé qu'au semestre précédent.",False

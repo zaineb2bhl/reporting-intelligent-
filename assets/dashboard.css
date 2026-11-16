@@ -1,0 +1,8 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.js-plotly-plot,
+.plot-container.plotly {
+    max-width: 100% !important;
+}
